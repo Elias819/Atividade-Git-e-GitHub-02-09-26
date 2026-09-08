@@ -1,0 +1,41 @@
+[33mcommit 182043072410305a7c1896809060577b34364cc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Daniel Ferrari Beletti Pereira <danielferrari479@gmail.com>
+Date:   Tue Sep 8 19:41:12 2026 -0300
+
+    Meu primeiro Commit
+
+[33mcommit c2c5fb7d69de20b9ec535c246fd0834f7f55bcd6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 22:29:21 2026 -0300
+
+    Adiciona conteúdo sobre tags e releases
+
+[33mcommit a971128577bc25aa39f0b30263b9cb33ffa7fe33[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 22:24:28 2026 -0300
+
+    Adiciona conceitos de colaboração no GitHub
+
+[33mcommit 60d9c009859e147d65193ba1a0867e6a2120b39f[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 22:19:56 2026 -0300
+
+    Adiciona conteúdo sobre branches e merge
+
+[33mcommit f3c794e3fde522b454fb88e5b56636e229c746a5[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 22:13:35 2026 -0300
+
+    Adiciona anotações sobre GitHub
+
+[33mcommit 99c940646e83e6d013c869bfcf28b3ad83f98bfd[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 22:10:27 2026 -0300
+
+    Adiciona anotações sobre Git
+
+[33mcommit 33ceaafdc31c9737c764516030bde7121ede39f9[m
+Author: Elias819 <152413924+Elias819@users.noreply.github.com>
+Date:   Wed Sep 2 21:53:25 2026 -0300
+
+    Adiciona README com descrição do projeto
