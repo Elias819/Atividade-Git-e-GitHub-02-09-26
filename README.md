@@ -8,7 +8,6 @@ O objetivo deste projeto é praticar Git e GitHub simulando um fluxo colaborativ
 
 ## Integrantes
 
-## Integrantes
 
 - Elias Rodrigues de Oliveira
 - Heitor rocha soares
