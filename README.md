@@ -4,11 +4,16 @@ Repositório desenvolvido para a atividade avaliativa da disciplina de Prototipa
 
 ## Objetivo
 
-O objetivo deste projeto é praticar o uso de Git e GitHub para controle de versões e organização do desenvolvimento de um projeto.
+O objetivo deste projeto é praticar Git e GitHub simulando um fluxo colaborativo de desenvolvimento de software.
+
+## Integrantes
 
 ## Integrantes
 
 - Elias Rodrigues de Oliveira
+- Heitor rocha soares
+- Vitor Gabriel Ferreira Lima
+- Daniel Ferrari Beletti Pereira
 
 ## Conteúdos trabalhados
 
